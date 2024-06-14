@@ -1,4 +1,7 @@
-En enkel kalkylator som kan göra en uträkning för att demonstrera 3 olika design patterns.
-Factory Method: Används för att skapa de olika kalkylatoroperationerna (addition, subtraktion, multiplikation, division).
-Singleton: Används för att säkerställa att endast en instans av fabriksklassen (OperationFactory) skapas.
-Strategy: Används för att utföra den valda operationen genom en kontextklass (Calculator).
+En enkel kalkylator som kan gÃ¶ra en utrÃ¤kning fÃ¶r att demonstrera 3 olika design patterns.
+
+Factory Method: AnvÃ¤nds fÃ¶r att skapa de olika kalkylatoroperationerna (addition, subtraktion, multiplikation, division).
+
+Singleton: AnvÃ¤nds fÃ¶r att sÃ¤kerstÃ¤lla att endast en instans av fabriksklassen (OperationFactory) skapas.
+
+Strategy: AnvÃ¤nds fÃ¶r att utfÃ¶ra den valda operationen genom en kontextklass (Calculator).
